@@ -4,7 +4,7 @@
         2
     ],
     "description": "Removes any video streams that use configured codecs.",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/j7126/unmanic-remove_streams_by_codec/master/icon.png",
     "id": "remove_streams_by_codec",
     "name": "Remove streams based on codec",
     "platform": [
